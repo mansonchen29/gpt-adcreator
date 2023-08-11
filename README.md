@@ -30,6 +30,7 @@ Step 0 - Install Python 3.11 or later. See here for a step-by-step guide.
 Step 1 - Download the project
 
 $ git clone https://github.com/mchen29/gpt-adcreator.git
+
 $ cd gpt-adcreator
 
 Step 2 - Install dependencies
