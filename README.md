@@ -1,5 +1,5 @@
 # gpt-adcreator
-this will automatically create a video ad with visuals, scripts, audio, and hooks
+this will (eventually) automatically create video ads with visuals, scripts, audio, and hooks
 
 i took the code from the open-source '[gpt-researcher]([url](https://github.com/assafelovic/gpt-researcher)https://github.com/assafelovic/gpt-researcher)' and edited the prompts and report outputs
 
