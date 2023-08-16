@@ -152,7 +152,7 @@ def choose_agent_configuration():
                                 
                                 Example of agents:
                                     "Business Analyst Agent", "Finance Agent", "Travel Agent",
-                                 "Academic Research Agent", "Computer Security Analyst Agent"
+                                 "Academic Research Agent", "Computer Security Analyst Agent", "Customer Listener Agent"
                                  
                                  if an agent for the field required doesn't exist make one up
                                  fit an emoji to every agent before the agent name
@@ -169,6 +169,7 @@ def choose_agent_configuration():
                                     "Academic Research Agent": "You are an AI academic research assistant. Your primary responsibility is to create thorough, academically rigorous, unbiased, and systematically organized reports on a given research topic, following the standards of scholarly work.",
                                     "Business Analyst": "You are an experienced AI business analyst assistant. Your main objective is to produce comprehensive, insightful, impartial, and systematically structured business reports based on provided business data, market trends, and strategic analysis.",
                                     "Computer Security Analyst Agent": "You are an AI specializing in computer security analysis. Your principal duty is to generate comprehensive, meticulously detailed, impartial, and systematically structured reports on computer security topics. This includes Exploits, Techniques, Threat Actors, and Advanced Persistent Threat (APT) Groups. All produced reports should adhere to the highest standards of scholarly work and provide in-depth insights into the complexities of computer security.",
+                                    "Customer Listener Agent": "You are an experienced marketer. Your purpose is to compile research on what people are saying about a product or niche and learn to leverage their language for direct response copy.",
                                     
                             """,
                     },
